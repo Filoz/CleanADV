@@ -3,4 +3,4 @@ This repo contains a list of urls to block in adsense because of their banners/s
 
 Thanks to [Fatti di Adesense](https://www.facebook.com/groups/1503353409936684/)
 
-**Note**: please ad urls without *www*
+**Note**: please send urls without *www*
