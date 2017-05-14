@@ -1,8 +1,4 @@
 <!-- THE PR TEMPLATE IS NOT AN OPTION. DO NOT DELETE IT, MAKE SURE YOU READ AND EDIT IT! -->
-<!--
-    Specify which issues will be fixed/closed.
-    Remove it if this is not related.
--->
 
 <!-- REMOVE EMPTY SECTIONS -->
 ```markdown
@@ -17,7 +13,10 @@
 
 
 ## Screenshot
-<!-- If possible, please add a screenshot or the content of the banner -->
+<!-- If possible, please add a screenshot or the content of the AD -->
+
+## Title
+<!-- The title (or a part) of the AD -->
 
 ## Subject
-<!-- Describe your Pull Request content here -->
+<!-- Describe your Pull Request content here (why do you think this url should be blocked?) -->
